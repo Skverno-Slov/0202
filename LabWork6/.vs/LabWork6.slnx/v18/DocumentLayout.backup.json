@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\THUNDER\\Documents\\repos\\0202\\LabWork6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33150B4B-F5EB-41CF-9EEF-280564803C2F}|LabWork6\\LabWork6.csproj|c:\\users\\thunder\\documents\\repos\\0202\\labwork6\\labwork6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33150B4B-F5EB-41CF-9EEF-280564803C2F}|LabWork6\\LabWork6.csproj|solutionrelative:labwork6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33150B4B-F5EB-41CF-9EEF-280564803C2F}|LabWork6\\LabWork6.csproj|c:\\users\\thunder\\documents\\repos\\0202\\labwork6\\labwork6\\negativenamberexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33150B4B-F5EB-41CF-9EEF-280564803C2F}|LabWork6\\LabWork6.csproj|solutionrelative:labwork6\\negativenamberexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33150B4B-F5EB-41CF-9EEF-280564803C2F}|LabWork6\\LabWork6.csproj|c:\\users\\thunder\\documents\\repos\\0202\\labwork6\\labwork6\\labwork6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{33150B4B-F5EB-41CF-9EEF-280564803C2F}|LabWork6\\LabWork6.csproj|solutionrelative:labwork6\\labwork6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NegativeNamberException.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\Documents\\repos\\0202\\LabWork6\\LabWork6\\NegativeNamberException.cs",
+              "RelativeDocumentMoniker": "LabWork6\\NegativeNamberException.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\Documents\\repos\\0202\\LabWork6\\LabWork6\\NegativeNamberException.cs",
+              "RelativeToolTip": "LabWork6\\NegativeNamberException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T16:14:43.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LabWork6",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\Documents\\repos\\0202\\LabWork6\\LabWork6\\LabWork6.csproj",
+              "RelativeDocumentMoniker": "LabWork6\\LabWork6.csproj",
+              "ToolTip": "C:\\Users\\THUNDER\\Documents\\repos\\0202\\LabWork6\\LabWork6\\LabWork6.csproj",
+              "RelativeToolTip": "LabWork6\\LabWork6.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-06T14:14:02.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\Documents\\repos\\0202\\LabWork6\\LabWork6\\Program.cs",
+              "RelativeDocumentMoniker": "LabWork6\\Program.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\Documents\\repos\\0202\\LabWork6\\LabWork6\\Program.cs",
+              "RelativeToolTip": "LabWork6\\Program.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAQwGUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T13:55:55.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

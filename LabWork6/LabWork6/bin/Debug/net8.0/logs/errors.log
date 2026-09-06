@@ -1,0 +1,13 @@
+2026-09-06 17:24:34.0695|ERROR|LabWork6.Program|   at LabWork6.Program.Main(String[] args) in C:\Users\THUNDER\Documents\repos\0202\LabWork6\LabWork6\Program.cs:line 20
+2026-09-06 17:25:14.7377|ERROR|LabWork6.Program|   at LabWork6.Program.Main(String[] args) in C:\Users\THUNDER\Documents\repos\0202\LabWork6\LabWork6\Program.cs:line 20
+2026-09-06 19:22:59.2897|ERROR|LabWork6.Program|   at LabWork6.Program.Main(String[] args) in C:\Users\THUNDER\Documents\repos\0202\LabWork6\LabWork6\Program.cs:line 20
+2026-09-06 20:15:27.1638|ERROR|LabWork6.Program|   at LabWork6.Program.ReadFileData(String path) in C:\Users\THUNDER\Documents\repos\0202\LabWork6\LabWork6\Program.cs:line 132
+   at LabWork6.Program.Main(String[] args) in C:\Users\THUNDER\Documents\repos\0202\LabWork6\LabWork6\Program.cs:line 67
+2026-09-06 20:16:07.4717|ERROR|LabWork6.Program|   at LabWork6.Program.ReadFileData(String path) in C:\Users\THUNDER\Documents\repos\0202\LabWork6\LabWork6\Program.cs:line 132
+   at LabWork6.Program.Main(String[] args) in C:\Users\THUNDER\Documents\repos\0202\LabWork6\LabWork6\Program.cs:line 67
+2026-09-06 20:19:41.7827|ERROR|LabWork6.Program|   at LabWork6.Program.ReadFileData(String path) in C:\Users\THUNDER\Documents\repos\0202\LabWork6\LabWork6\Program.cs:line 131
+   at LabWork6.Program.Main(String[] args) in C:\Users\THUNDER\Documents\repos\0202\LabWork6\LabWork6\Program.cs:line 69
+2026-09-06 20:41:29.0391|ERROR|LabWork6.Program|   at LabWork6.Program.ReadFileData(String path) in C:\Users\THUNDER\Documents\repos\0202\LabWork6\LabWork6\Program.cs:line 132
+   at LabWork6.Program.Main(String[] args) in C:\Users\THUNDER\Documents\repos\0202\LabWork6\LabWork6\Program.cs:line 70
+2026-09-06 20:44:30.0644|ERROR|LabWork6.Program|   at LabWork6.Program.ReadFileData(String path) in C:\Users\THUNDER\Documents\repos\0202\LabWork6\LabWork6\Program.cs:line 141
+   at LabWork6.Program.Main(String[] args) in C:\Users\THUNDER\Documents\repos\0202\LabWork6\LabWork6\Program.cs:line 70
