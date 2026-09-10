@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ejpcma86d0M=",
+  "success": true,
+  "projectFilePath": "C:\\temp\\ispp31\\0202\\LabWork6\\LabWork6_5\\LabWork6_5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\0109-14\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\0109-14\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}

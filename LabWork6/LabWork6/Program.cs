@@ -113,24 +113,31 @@ namespace LabWork6
                         Console.WriteLine("Файл открыт");
                     }
                     #endregion
+                    #region Task4
+                    AppDomain.CurrentDomain.UnhandledException += HandleExeption;
+                    CallExeption();
+                    #endregion
                 }
                 catch (DivideByZeroException ex)
                 {
                     Console.WriteLine(ex.Message);
+                    Logger.Error(ex.Message);
                 }
                 catch (FormatException ex)
                 {
                     Console.WriteLine(ex.Message);
+                    Logger.Error(ex.Message);
                 }
                 catch (NegativeNamberException ex)
                 {
                     Console.WriteLine(ex.Message);
+                    Logger.Error(ex.Message);
                 }
-                catch (Exception ex)
-                {
-                    Console.WriteLine("Непредвиденная ошибка.");
-                    Logger.Error(ex.StackTrace);
-                }
+                //catch (Exception ex)
+                //{
+                //    Console.WriteLine("Непредвиденная ошибка.");
+                //    Logger.Error(ex.StackTrace);
+                //}
             }
         }
 
@@ -145,6 +152,18 @@ namespace LabWork6
                 throw new ArgumentNullException("Содержимое файла");
 
             return data;
+        }
+
+        private static void HandleExeption(object sender, UnhandledExceptionEventArgs e)
+        {
+            Console.WriteLine("Произошла ошибка. Подробности в логах");
+            var ex = e.ExceptionObject as Exception;
+            Logger.Fatal(ex.StackTrace);
+        }
+
+        private static void CallExeption()
+        {
+            throw new Exception();
         }
     }
 }

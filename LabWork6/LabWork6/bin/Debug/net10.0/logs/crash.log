@@ -1,0 +1,4 @@
+2026-09-10 11:29:56.7519|FATAL|LabWork6.Program|   at LabWork6.Program.CallExeption() in C:\temp\ispp31\0202\LabWork6\LabWork6\Program.cs:line 166
+   at LabWork6.Program.Main(String[] args) in C:\temp\ispp31\0202\LabWork6\LabWork6\Program.cs:line 118
+2026-09-10 11:36:13.0856|FATAL|LabWork6.Program|   at LabWork6.Program.CallExeption() in C:\temp\ispp31\0202\LabWork6\LabWork6\Program.cs:line 166
+   at LabWork6.Program.Main(String[] args) in C:\temp\ispp31\0202\LabWork6\LabWork6\Program.cs:line 118

@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "VXZ4HOZqJiQ=",
+  "dgSpecHash": "yexrfQlXwH8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\THUNDER\\Documents\\repos\\0202\\LabWork6\\LabWork6\\LabWork6.csproj",
+  "projectFilePath": "C:\\temp\\ispp31\\0202\\LabWork6\\LabWork6\\LabWork6.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\THUNDER\\.nuget\\packages\\nlog\\6.2.0\\nlog.6.2.0.nupkg.sha512"
+    "C:\\Users\\0109-14\\.nuget\\packages\\nlog\\6.2.0\\nlog.6.2.0.nupkg.sha512"
   ],
   "logs": []
 }
