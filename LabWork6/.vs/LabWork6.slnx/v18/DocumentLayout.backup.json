@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\temp\\ispp31\\0202\\LabWork6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\temp\\ispp31\\0202\\LabWork6\\LabWork6\\bin\\Debug\\net10.0\\NLog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LabWork6\\bin\\Debug\\net10.0\\NLog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F33FE539-E6AB-881A-839B-2BDFF907C839}|LabWork6\\LabWork6.csproj|c:\\temp\\ispp31\\0202\\labwork6\\labwork6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F33FE539-E6AB-881A-839B-2BDFF907C839}|LabWork6\\LabWork6.csproj|solutionrelative:labwork6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7288BBB5-96F1-4878-88CA-F47A2F128EB8}|LabWork6_5\\LabWork6_5.csproj|c:\\temp\\ispp31\\0202\\labwork6\\labwork6_5\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7288BBB5-96F1-4878-88CA-F47A2F128EB8}|LabWork6_5\\LabWork6_5.csproj|solutionrelative:labwork6_5\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\temp\\ispp31\\0202\\LabWork6\\LabWork6\\bin\\Debug\\net10.0\\NLog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LabWork6\\bin\\Debug\\net10.0\\NLog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F33FE539-E6AB-881A-839B-2BDFF907C839}|LabWork6\\LabWork6.csproj|c:\\temp\\ispp31\\0202\\labwork6\\labwork6\\negativenamberexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\0202\\LabWork6\\LabWork6_5\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LabWork6_5\\Models\\User.cs",
+              "ToolTip": "C:\\temp\\ispp31\\0202\\LabWork6\\LabWork6_5\\Models\\User.cs",
+              "RelativeToolTip": "LabWork6_5\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T08:46:38.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "NLog.config",
               "DocumentMoniker": "C:\\temp\\ispp31\\0202\\LabWork6\\LabWork6\\bin\\Debug\\net10.0\\NLog.config",
               "RelativeDocumentMoniker": "LabWork6\\bin\\Debug\\net10.0\\NLog.config",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "NegativeNamberException.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\0202\\LabWork6\\LabWork6\\NegativeNamberException.cs",
               "RelativeDocumentMoniker": "LabWork6\\NegativeNamberException.cs",
@@ -56,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "LabWork6.csproj",
               "DocumentMoniker": "C:\\temp\\ispp31\\0202\\LabWork6\\LabWork6\\LabWork6.csproj",
               "RelativeDocumentMoniker": "LabWork6\\LabWork6.csproj",
@@ -69,13 +86,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\0202\\LabWork6\\LabWork6\\Program.cs",
               "RelativeDocumentMoniker": "LabWork6\\Program.cs",
               "ToolTip": "C:\\temp\\ispp31\\0202\\LabWork6\\LabWork6\\Program.cs",
               "RelativeToolTip": "LabWork6\\Program.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAArwHQAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAIMAAAAAAAAAAAArwHQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-06T13:55:55.22Z",
               "EditorCaption": ""

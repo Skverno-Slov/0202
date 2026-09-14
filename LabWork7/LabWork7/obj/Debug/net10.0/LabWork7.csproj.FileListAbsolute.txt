@@ -1,0 +1,15 @@
+C:\temp\ispp31\0202\LabWork7\LabWork7\bin\Debug\net10.0\LabWork7.exe
+C:\temp\ispp31\0202\LabWork7\LabWork7\bin\Debug\net10.0\LabWork7.deps.json
+C:\temp\ispp31\0202\LabWork7\LabWork7\bin\Debug\net10.0\LabWork7.runtimeconfig.json
+C:\temp\ispp31\0202\LabWork7\LabWork7\bin\Debug\net10.0\LabWork7.dll
+C:\temp\ispp31\0202\LabWork7\LabWork7\bin\Debug\net10.0\LabWork7.pdb
+C:\temp\ispp31\0202\LabWork7\LabWork7\obj\Debug\net10.0\LabWork7.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ispp31\0202\LabWork7\LabWork7\obj\Debug\net10.0\LabWork7.AssemblyInfoInputs.cache
+C:\temp\ispp31\0202\LabWork7\LabWork7\obj\Debug\net10.0\LabWork7.AssemblyInfo.cs
+C:\temp\ispp31\0202\LabWork7\LabWork7\obj\Debug\net10.0\LabWork7.csproj.CoreCompileInputs.cache
+C:\temp\ispp31\0202\LabWork7\LabWork7\obj\Debug\net10.0\LabWork7.sourcelink.json
+C:\temp\ispp31\0202\LabWork7\LabWork7\obj\Debug\net10.0\LabWork7.dll
+C:\temp\ispp31\0202\LabWork7\LabWork7\obj\Debug\net10.0\refint\LabWork7.dll
+C:\temp\ispp31\0202\LabWork7\LabWork7\obj\Debug\net10.0\LabWork7.pdb
+C:\temp\ispp31\0202\LabWork7\LabWork7\obj\Debug\net10.0\LabWork7.genruntimeconfig.cache
+C:\temp\ispp31\0202\LabWork7\LabWork7\obj\Debug\net10.0\ref\LabWork7.dll

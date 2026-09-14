@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "eUI4MMUUmpc=",
+  "dgSpecHash": "qnyqDMYhAxo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\THUNDER\\Documents\\repos\\0202\\LabWork5\\LabWork5\\LabWork5.csproj",
+  "projectFilePath": "C:\\temp\\ispp31\\0202\\LabWork5\\LabWork5\\LabWork5.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\THUNDER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.16\\microsoft.windowsdesktop.app.ref.9.0.16.nupkg.sha512",
-    "C:\\Users\\THUNDER\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.16\\microsoft.netcore.app.ref.9.0.16.nupkg.sha512",
-    "C:\\Users\\THUNDER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.16\\microsoft.aspnetcore.app.ref.9.0.16.nupkg.sha512",
-    "C:\\Users\\THUNDER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.16\\microsoft.netcore.app.host.win-x64.9.0.16.nupkg.sha512"
+    "C:\\Users\\0109-14\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.19\\microsoft.windowsdesktop.app.ref.9.0.19.nupkg.sha512",
+    "C:\\Users\\0109-14\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.19\\microsoft.netcore.app.ref.9.0.19.nupkg.sha512",
+    "C:\\Users\\0109-14\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.19\\microsoft.aspnetcore.app.ref.9.0.19.nupkg.sha512",
+    "C:\\Users\\0109-14\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.19\\microsoft.netcore.app.host.win-x64.9.0.19.nupkg.sha512"
   ],
   "logs": []
 }
