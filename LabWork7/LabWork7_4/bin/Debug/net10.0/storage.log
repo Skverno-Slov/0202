@@ -1,0 +1,2 @@
+Storage Warning: 5 : Запись с ID = 99 не найдена.
+Storage Error: 9 : Критическая ошибка при сохранение данных. Сообщение: Данные не могут быть null. (Parameter 'nullData')

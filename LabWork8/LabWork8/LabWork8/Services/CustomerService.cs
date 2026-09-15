@@ -27,9 +27,19 @@ namespace LabWork8.Services
 
         public void PrintCustomerInfo(int customerId)
         {
-            var customer = _dbContext.Customers.Include(c => c.Orders).FirstOrDefault(c => c.Id == customerId);
-            Console.WriteLine("Customer: " + customer.Name);
-            Console.WriteLine("Email: " + customer.Email);
+            var customer = GetCustomerById(customerId);
+
+            if (customer is null)
+                return;
+
+            PrintCustomerName(customer.Name);
+            customer.PrintEmail();
         }
+
+        private Customer? GetCustomerById(int customerId)
+            => _dbContext.Customers.Include(c => c.Orders).FirstOrDefault(c => c.Id == customerId);
+
+        private static void PrintCustomerName(string name) 
+            => Console.WriteLine("Покупатель: " + name);
     }
 }

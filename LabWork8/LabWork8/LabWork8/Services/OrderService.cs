@@ -28,12 +28,24 @@ namespace LabWork8.Services
 
         public void PrintOrderDetails(int orderId)
         {
-            var order = _dbContext.Orders.Include(o => o.Customer).FirstOrDefault(o => o.Id == orderId);
-            Console.WriteLine("Id заказа: " + order.Id);
-            Console.WriteLine("Итоговая цена: " + order.Total);
-            Console.WriteLine("Экспрес доставка: " + (order.IsExpress ? "Да" : "Нет"));
+            Order? order = GetOrderById(orderId);
+            PrintOrderData(order.Id);
+            PrintOrderData(order.Total);
+            PrintOrderData(order.IsExpress);
             order.Customer.PrintEmail();
         }
+
+        private void PrintOrderData(int id)
+            => Console.WriteLine("Id заказа: " + id);
+
+        private void PrintOrderData(double total)
+            => Console.WriteLine("Итоговая цена: " + total);
+
+        private void PrintOrderData(bool isExpress) 
+            => Console.WriteLine("Экспрес доставка: " + (isExpress ? "Да" : "Нет"));
+
+        private Order? GetOrderById(int orderId)
+            => _dbContext.Orders.Include(o => o.Customer).FirstOrDefault(o => o.Id == orderId);
 
         public double CalculateFinalPrice(Order order)
         {

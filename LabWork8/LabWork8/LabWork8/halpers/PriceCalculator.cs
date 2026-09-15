@@ -7,13 +7,17 @@ namespace LabWork8.halpers
 {
     public class PriceCalculator
     {
-        double _vat = 0.2;
-        double _discount = 0;
-        double _minDiscountPrice = 10000;
-        double _discountPercent = 0.1;
+        double _vat;
+        double _discount;
+        double _minDiscountPrice;
+        double _discountPercent;
         double _total;
 
-        public PriceCalculator(double vat, double discount, double minDiscountPrice, double discountPercent, double total)
+        public PriceCalculator(double vat,
+            double discount,
+            double minDiscountPrice,
+            double discountPercent,
+            double total)
         {
             _vat = vat;
             _discount = discount;

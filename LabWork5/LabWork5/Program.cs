@@ -12,7 +12,7 @@ internal class Program
                 Console.WriteLine("Введите первое слагаемое: ");
                 string? x;
                 Debug.WriteLine("Запрошен ввод X (D)");
-                Trace.WriteLine("Запрошен ввод X (T)");
+                Trace.WriteLine("-----------------------------------Запрошен ввод X (T)");
                 x = Console.ReadLine();
 
                 if (string.IsNullOrWhiteSpace(x))

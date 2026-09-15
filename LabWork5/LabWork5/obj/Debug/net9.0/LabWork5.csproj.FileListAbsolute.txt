@@ -27,3 +27,4 @@ C:\Users\THUNDER\Documents\repos\0202\LabWork5\LabWork5\obj\Debug\net9.0\refint\
 C:\Users\THUNDER\Documents\repos\0202\LabWork5\LabWork5\obj\Debug\net9.0\LabWork5.pdb
 C:\Users\THUNDER\Documents\repos\0202\LabWork5\LabWork5\obj\Debug\net9.0\LabWork5.genruntimeconfig.cache
 C:\Users\THUNDER\Documents\repos\0202\LabWork5\LabWork5\obj\Debug\net9.0\ref\LabWork5.dll
+C:\temp\ispp31\0202\LabWork5\LabWork5\obj\Debug\net9.0\LabWork5.sourcelink.json
