@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\temp\\ispp31\\0202\\LabWork7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CDD6E84A-276B-49F4-88EE-C0E535AE9A5D}|LabWork7_3\\LabWork7_3.csproj|c:\\temp\\ispp31\\0202\\labwork7\\labwork7_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDD6E84A-276B-49F4-88EE-C0E535AE9A5D}|LabWork7_3\\LabWork7_3.csproj|solutionrelative:labwork7_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1614CEAF-2819-9F2F-4756-E77E3D87C4BD}|LabWork7_3\\LabWork7_3.csproj|c:\\temp\\ispp31\\0202\\labwork7\\labwork7_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1614CEAF-2819-9F2F-4756-E77E3D87C4BD}|LabWork7_3\\LabWork7_3.csproj|solutionrelative:labwork7_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A007378-ED50-44F3-930E-5C87735BC72F}|LabWork7\\LabWork7.csproj|c:\\temp\\ispp31\\0202\\labwork7\\labwork7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A007378-ED50-44F3-930E-5C87735BC72F}|LabWork7\\LabWork7.csproj|solutionrelative:labwork7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{987CDA55-43EC-B4AA-41A0-FEDFE760BA2F}|LabWork7\\LabWork7.csproj|c:\\temp\\ispp31\\0202\\labwork7\\labwork7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{987CDA55-43EC-B4AA-41A0-FEDFE760BA2F}|LabWork7\\LabWork7.csproj|solutionrelative:labwork7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,9 +26,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\0202\\LabWork7\\LabWork7_3\\Program.cs",
               "RelativeDocumentMoniker": "LabWork7_3\\Program.cs",
-              "ToolTip": "C:\\temp\\ispp31\\0202\\LabWork7\\LabWork7_3\\Program.cs",
-              "RelativeToolTip": "LabWork7_3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\temp\\ispp31\\0202\\LabWork7\\LabWork7_3\\Program.cs*",
+              "RelativeToolTip": "LabWork7_3\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-14T06:24:41.795Z",
               "EditorCaption": ""
@@ -43,8 +43,7 @@
               "RelativeToolTip": "LabWork7\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T05:34:59.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-14T05:34:59.074Z"
             }
           ]
         }
