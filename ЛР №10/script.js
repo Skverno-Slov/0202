@@ -6,11 +6,48 @@ document.querySelector('h1').textContent = 'Тестирование с DevTools
 let count = 0;
 const button = document.querySelector('.button-class');
 
+for (let i = 1; i <= 100; i++) {
+    console.log("Текущее число:", i);
+}
+
+console.log("Информационное сообщение: Работа программы успешно запущена.");
+console.warn("Предупреждение: Рекомендуется проверить передаваемые параметры.");
+console.error("Ошибка: Произошел сбой при выполнении тестовой операции.");
+
+function divideNumbers(a, b) {
+    console.log(`Функция вызвана с параметрами: a = ${a}, b = ${b}`);
+
+    if (typeof a !== 'number' || typeof b !== 'number') {
+        console.error("Ошибка: Оба аргумента должны быть числами!");
+        return null;
+    }
+
+    if (b === 0) {
+        console.error("Ошибка: Деление на ноль невозможно!");
+        return null;
+    }
+
+    const result = a / b;
+    return result;
+}
+
+console.log("\n--- Тест 1: Корректное деление ---");
+const res1 = divideNumbers(10, 2);
+if (res1 !== null) {
+    console.log(`Результат деления: ${res1}`);
+}
+
+console.log("\n--- Тест 2: Попытка деления на ноль ---");
+const res2 = divideNumbers(15, 0); 
+// В консоли отобразится красная ошибка "Ошибка: Деление на ноль невозможно!"
+
+console.log("\n--- Тест 3: Передача некорректного типа данных ---");
+const res3 = divideNumbers("12", 3); 
+
 // Отправка данных формы
 const form = document.querySelector('form');
 form.addEventListener('submit', (event) => {
-	event.preventDefault(); // Отменяем стандартное поведение формы
-	window.location.href = 'https://www.google.com/search?q='+document.querySelector('#searchText').value; // Переход на Google
+	console.log("Точка останова на этом логе");
 });
 
 // 2: Отладка JavaScript
